@@ -1,7 +1,4 @@
-;########################################################
-;################### GENERAL SETTINGS ###################
-;########################################################
-
+; ######## GENERAL SETTINGS ########
 #SingleInstance Force
 #NoEnv
 SetWorkingDir %A_ScriptDir%
@@ -15,43 +12,24 @@ SetKeyDelay -1
 SetMouseDelay -1
 SetBatchLines -1
 
-;########################################################
-;#################### MAIN PROGRAM ######################
-;########################################################
+; ######## FUNCTIONS ########
 
-^!u::
+^!u:: ; ### MAIN ###
 ;Main settings
-SLEEP_DEFAULT := 1000
-SLEEP_SHORT := 250
+DEFAULT_SLEEP := 1000
 
 ;Program execution
+WinActivate,  ahk_class ThumbnailDeviceHelperWnd
+WinActivate, BlueStacks ahk_class HwndWrapper[Bluestacks.exe;;5b32fde4-2355-48c5-be51-8927697e9914]
 ClosePeskyAds(2)
 ClickCenterScreen(7)
-StartNewMaterials(1,5)
+StartNewMaterials(1,7)
 ClickTradeDepot()
-FillSaleCrates()
-ExitTradeDepot()
+	FillSaleCrates()
+	ExitTradeDepot()
 ClickCenterScreen(2)
 ClickDummyFactory()
-
-;Custom material adding
-;Factory 1 - Steel
-ClickRightArrow()
-ClickCenterScreen(5)
-StartNewMaterials(1,3)
-;Factory 2 - Steel
-ClickRightArrow()
-ClickCenterScreen(5)
-StartNewMaterials(1,3)
-;Factory 3 - Wood
-ClickRightArrow()
-ClickCenterScreen(5)
-StartNewMaterials(1,3)
-;Factory 4 - Wood
-ClickRightArrow()
-ClickCenterScreen(5)
-StartNewMaterials(1,3)
-
+	CollectFromFactories(4)
 ClickDummyStore()
 ClickRightArrow() ;bring back to main store
 ClickCenterScreen(5)
@@ -59,71 +37,68 @@ StartNewMaterials(1,6)
 
 Return
 
-;########################################################
-;################### HELPER FUNCTIONS ###################
-;########################################################
-
 ClosePeskyAds(numClicks){
 	Loop, % numClicks
 	{
 		Click, 1335, 271 
-		Sleep % SLEEP_DEFAULT
+		Sleep % DEFAULT_SLEEP
 	}
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 }
+
 
 ClickCenterScreen(numClicks){
 	Loop, % numClicks
 	{
 		Click, 927, 538 Left, , Down
-		Sleep, SLEEP_SHORT
+		Sleep, 250
 		Click, 927, 538 Left, , Up
-		Sleep, SLEEP_DEFAULT
+		Sleep, 1000
 	}
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 }
 
 ClickTradeDepot(){
 
 	Click, 420, 705
-	Sleep, SLEEP_SHORT
+	Sleep, 250
 }
 
 FillSaleCrate(x,y){
 
 	Click, %x%, %y%
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 	;in case it was recently sold, it needs to be clicked twice
 	Click, %x%, %y%
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 	;select 2nd row items before materials
 	Click, 350, 608 
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 	;Increment sale to put max items(5) up for sale
 	Loop, 5 {
 		Click, 1530, 425, Left, , Down
-		Sleep SLEEP_SHORT
+		Sleep 250
 		Click, 1530, 425, Left, , Up
-		Sleep SLEEP_SHORT
+		Sleep 250
 	}
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 	;Click the (-) button and hold to drop price
 	Click, 1218, 588 Left, , Down
 	Sleep, 5000
 	Click, 1218, 588 Left, , Up
-	Sleep, SLEEP_SHORT
+	Sleep, 250
 	;Uncheck advertise box to ensure private sale only
 	Click, 1517, 794 
- 	Sleep % SLEEP_DEFAULT
+ 	Sleep % DEFAULT_SLEEP
 	;Put that shit on sale baby
 	Click, 1354, 948 
- 	Sleep % SLEEP_DEFAULT
+ 	Sleep % DEFAULT_SLEEP
  	;Exit in case of unbought crate
  	Click, 1224, 126 
- 	Sleep % SLEEP_DEFAULT
+ 	Sleep % DEFAULT_SLEEP
  	;Exit Create Sale Window
 	Click, 1643, 134
-	Sleep % SLEEP_DEFAULT
+	Sleep % DEFAULT_SLEEP
 }
 
 FillSaleCrates(){
@@ -141,36 +116,33 @@ FillSaleCrates(){
 
 ExitTradeDepot(){
 	Click, 1512, 129
-	Sleep, SLEEP_SHORT
+	Sleep, 250
 }
 
 ClickDummyFactory(){
 	Click, 940, 420 
- 	Sleep % SLEEP_DEFAULT
+ 	Sleep % DEFAULT_SLEEP
 }
 
 StartNewMaterials(matPosition, numRefills) {
-	Loop, % numRefills {
+	Loop, % numRefills{
 		if (matPosition = 1) {
 			DragMaterialFromPos1()
-		}
-		else if (matPosition = 2) {
+
+		} else if (matPosition = 2) {
 			DragMaterialFromPos2()
-		}
-			else if (matPosition = 3) {
+
+		} else if (matPosition = 3) {
 			MsgBox, "Set up collecting mats for position 3"
-		}
-		else if (matPosition = 4) {
+		} else if (matPosition = 4) {
 			MsgBox, "Set up collecting mats for position 4"
-		}
-		else if (matPosition = 5) {
+		} else if (matPosition = 5) {
 			MsgBox, "Set up collecting mats for position 5"
 		}
-
-		Click, 650, 873 
- 		Sleep SLEEP_SHORT
+		Click, 656, 856 
+ 		Sleep 250
 	}
-	Sleep SLEEP_DEFAULT
+
 }
 
 DragMaterialFromPos1(){
@@ -432,25 +404,30 @@ DragMaterialFromPos2(){
 	Click, 921, 551, 0
 	Sleep, 297
 	Click, 921, 551 Left, , Up
+Return
 }
 
 ClickFactoryToRight(numClicks){
 	Loop, %numClicks% {
 		Click, 1062, 522 
-	 	Sleep SLEEP_SHORT	
+	 	Sleep 250	
 	 }
 }
 
+
 ClickRightArrow(){
 	Click, 1420, 87 
- 	Sleep (SLEEP_DEFAULT * 2)
+ 	Sleep 2000
 }
 
 CollectFromFactories(numOfFactories){
 	Loop, %numOfFactories% {
 	ClickRightArrow()
+	Sleep 2000
 	ClickCenterScreen(5)
+	Sleep 2000
 	StartNewMaterials(1,3) ;material position, number of times
+	Sleep 2000
 	}
 }
 
@@ -459,8 +436,30 @@ ClickDummyStore(){
  	Sleep 2000
 }
 
-;########################################################
-;############### AHK CONTROL FUNCTIONS ##################
-;########################################################
+^!y:: ;TESTS
+WinActivate,  ahk_class ThumbnailDeviceHelperWnd
+Sleep 2000
+WinActivate, BlueStacks ahk_class HwndWrapper[Bluestacks.exe;;5b32fde4-2355-48c5-be51-8927697e9914]
+
+ClickCenterScreen(2)
+Sleep 2000
+MsgBox, "Dummy Factory Click", 5000
+ClickDummyFactory()
+Sleep 2000
+MsgBox, "Factory Collection", 5000
+CollectFromFactories(4)
+Sleep 2000
+MsgBox, "Dummy Store Click", 5000
+ClickDummyStore()
+Sleep 2000
+MsgBox, "Navigate with right arrow to main store", 5000
+ClickRightArrow() ;bring back to main store
+Sleep 2000
+MsgBox, "Click center store", 5000
+ClickCenterScreen(5)
+Sleep 2000
+MsgBox, "New Materials", 5000
+StartNewMaterials(1,6)
+Sleep 2000
 
 Esc::ExitApp  ; Exit script with Escape key
