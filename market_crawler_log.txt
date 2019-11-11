@@ -1,0 +1,18 @@
+Changing CoordMode for all input to relative 
+Starting program 
+Activating window: BlueStacks 
+Adding to activeWindowList[] 
+H: 750 
+W: 540 
+X: 746 
+Y: 520 
+Activating window: Hammertown 
+Adding to activeWindowList[] 
+H: 959 
+W: 547 
+X: 959 
+Y: 0 
+Couldn't activate window: Shove It 
+Active window list: 
+BlueStacks 
+Hammertown 
