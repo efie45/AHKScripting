@@ -2,17 +2,2642 @@ Changing CoordMode for all input to relative
 Starting program 
 Activating window: BlueStacks 
 Adding to activeWindowList[] 
-H: 750 
-W: 540 
-X: 746 
-Y: 520 
+H: 960 
+W: 547 
+X: 0 
+Y: 0 
 Activating window: Hammertown 
 Adding to activeWindowList[] 
-H: 959 
+H: 960 
 W: 547 
-X: 959 
+X: 960 
 Y: 0 
-Couldn't activate window: Shove It 
+Activating window: Diggs 
+Adding to activeWindowList[] 
+H: 960 
+W: 547 
+X: 0 
+Y: 525 
 Active window list: 
 BlueStacks 
 Hammertown 
+Diggs 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window BlueStacks in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Hammertown in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
+Searching for bars (3).jpg 
+Searching for bars.jpg 
+Searching for camera (2).jpg 
+Searching for camera (3).jpg 
+Searching for camera.jpg 
+Searching for exhaust.png 
+Searching for gear.png 
+Searching for image.jpg 
+Searching for lock.jpg 
+Activating window Diggs in main loop... 
+Check Refresh... 
+Refreshing Global Trade HQ... 
+Clicking on  
+Searching for bars (2).jpg 
