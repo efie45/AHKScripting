@@ -1,0 +1,655 @@
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\camera (2).jpg
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (3).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\camera.jpg
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (3).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\a_lock.png
+    Unable to verify purchase of storage_store (4).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\camera.jpg
+    Purchase of storage_store (2).jpg successful 
+    Purchase of storage_store (4).jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\a_lock.png
+    Unable to verify purchase of storage_store (4).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (3).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\a_lock.png
+    Purchase of storage_store (4).jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Purchase of bars_shop.png successful 
+    Purchase of storage_store (4).jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\camera.jpg
+    Purchase of storage_store (2).jpg successful 
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+    Unable to verify purchase of lock_shop.png
+    Unable to verify purchase of plastic_shop.png
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+    Unable to verify purchase of lock_shop.png
+    Unable to verify purchase of plastic_shop.png
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Purchase of storage_store (2).jpg successful 
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+    Unable to verify purchase of lock_shop.png
+    Unable to verify purchase of plastic_shop.png
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+    Unable to verify purchase of lock_shop.png
+    Unable to verify purchase of plastic_shop.png
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\camera.jpg
+    Purchase of storage_store (2).jpg successful 
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+    Unable to verify purchase of lock_shop.png
+    Unable to verify purchase of plastic_shop.png
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+    Unable to verify purchase of lock_shop.png
+    Unable to verify purchase of plastic_shop.png
+    Unable to verify purchase of storage_store (2).jpg
+    Unable to verify purchase of storage_store (3).jpg
+    Unable to verify purchase of storage_store (4).jpg
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\a_lock.png
+    Purchase of storage_store (4).jpg successful 
+    Unable to verify purchase of storage_store (6).jpg
+    Unable to verify purchase of storage_store (7).jpg
+    Unable to verify purchase of bars_shop.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Purchase of 1bar.jpg successful 
+    Purchase of 3cam.jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Purchase of 1bar.jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Purchase of 1bar.jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\bars (2).jpg
+    Purchase of 1bar.jpg successful 
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\2b-gear.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\2a-exhaust.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\2a-exhaust.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\2a-exhaust.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1d-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1c-camera.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1b-bar.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1f-lock.jpg
+Found storage item C:\Users\EthanXPS\Desktop\SimCity_Buildit_AHK\image_assets\storage\1a-lock.png

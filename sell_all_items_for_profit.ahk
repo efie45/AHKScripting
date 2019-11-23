@@ -1,465 +1,479 @@
-; ######## GENERAL SETTINGS ########
+;#############################################################
+;################## GENERAL SETTINGS / SETUP #################
+;#############################################################
+
+fileLocation := A_ScriptDir . "\sell_for_profit_log.txt"
+FileDelete, %fileLocation%
+global SetWorkingDir %A_ScriptDir%
+SetCoordMode(1)
 #SingleInstance Force
-#NoEnv
-SetWorkingDir %A_ScriptDir%
-CoordMode, Mouse, Window
-SendMode Input
-SetTitleMatchMode 2
-#WinActivateForce
-SetControlDelay 1
+SetControlDelay 1s
 SetWinDelay 0
 SetKeyDelay -1
 SetMouseDelay -1
 SetBatchLines -1
+toggleMouseMove = 0
+; Creaate gui
+windowList := ["Hammertown", "Diggs", "BlueStacks"]
+activeWindowList := []
+; Activate the necessary windows
+Gui, Add, Edit, Readonly x10 y10 w750 h470 vDebug
+Gui, Show, w750 h470 x0 y548, Debug Window
+DebugAppend("Starting program")
+For key, val in % WindowList {
+    If WinExist(val) {
+			DebugAppend("Activating window: " . val)
+			DebugAppend("Adding to activeWindowList[]")
+			activeWindowList.Push(val)
+            WinActivate, %val%
+			WinMove,%val%,,0,0,898,546
+			WinGetActiveStats, %val%, winMaxHeight, winMaxWidth, winX, winY
+			DebugAppend("H: " . winMaxHeight)
+			DebugAppend("W: " . winMaxWidth)
+			DebugAppend("X: " . winX)
+			DebugAppend("Y: " . winY)
+			
+    }
+	Else {
+		DebugAppend("Couldn't activate window: " . val)
+	}
+}
+DebugAppend("Active window list:")
+For key, val in % activeWindowList {
+	DebugAppend(val)
+}
+;DEFAULT_SLEEP := 1000
+;SHORT_SLEEP := (DEFAULT_SLEEP / 4)
+;MID_SLEEP := (DEFAULT_SLEEP * 3)
+;LONG_SLEEP := (DEFAULT_SLEEP * 5)
 
-; ######## FUNCTIONS ########
+;#############################################################
+;################## GUI SETTINGS GO HERE #####################
+;#############################################################
+; Hard code values that will change from program to program
+; here and then add GUI later to control them
 
-^!u:: ; ### MAIN ###
-;Main settings
-DEFAULT_SLEEP := 1000
+global sellItems := true ;will only create items if false
+global advertise := true ;advertises in global market and sells for profit
+global numFactories := 5
+global storeList := ["Furniture Store",  "Farmer's Market", "Hardware Store", "Building Supplies Store"]
+global storeCount := storeList.MaxIndex()
+	
+;#############################################################
+;###################### MAIN PROGRAM #########################
+;#############################################################
 
-;Program execution
-WinActivate,  ahk_class ThumbnailDeviceHelperWnd
-WinActivate, BlueStacks ahk_class HwndWrapper[Bluestacks.exe;;5b32fde4-2355-48c5-be51-8927697e9914]
-ClosePeskyAds(2)
-ClickCenterScreen(7)
-StartNewMaterials(1,7)
-ClickTradeDepot()
-	FillSaleCrates()
-	ExitTradeDepot()
-ClickCenterScreen(2)
-ClickDummyFactory()
-	CollectFromFactories(4)
-ClickDummyStore()
-ClickRightArrow() ;bring back to main store
-ClickCenterScreen(5)
-StartNewMaterials(1,6)
+BlockInput, MouseMove
+Loop {
+	For key, val in % windowList {
+		if WinExist(val) {
+			WinActivate, % val
+			ExecuteRoutine()
+		}
+	}
+}
 
-Return
+;#############################################################
+;############### MAIN PROGRAM HELPER FUNCTIONS ###############
+;#############################################################
+
+ExecuteRoutine(){
+	ClosePeskyAds(2)
+	ClickCenterScreen(7) ;TODO Change back to 7
+	StartNewMaterials(1,2, "Building Supplies Store")
+	if (sellItems) {
+		ClickTradeDepot()
+		ImageSearchFillAllSaleCrates(10,advertise)
+		ExitTradeDepot()	
+	}
+	Sleep 3000
+	ClickCenterScreen(4)
+
+	;1st Factory (Dummy factory)
+	Loop, 4 {
+		ClickDummyFactory()
+		ClickCenterScreen(1)
+	}
+	StartNewMaterials("Metal", 3, "Factory")
+	ClickRightArrow(1)
+
+	;2nd Factory
+	ClickCenterScreen(4)
+	StartNewMaterials("Metal", 3, "Factory")
+	ClickRightArrow(1)
+	
+	;3rd factory
+	ClickCenterScreen(4)
+	StartNewMaterials("Metal", 3, "Factory")
+	ClickRightArrow(1)
+	;
+
+	;4th factory
+	ClickCenterScreen(4)
+	StartNewMaterials("Metal", 3, "Factory")
+	ClickRightArrow(1)
+
+	;5th factory
+	ClickCenterScreen(4)
+	StartNewMaterials("Wood", 3, "Factory")	ClickRightArrow(1) ;bring us back to the first factory
+	
+	;moving back to main store to avoid ads in factories
+	click 441 345
+	Sleep 1000
+	ClickCenterScreen(1)
+	Click 441 345
+	Sleep 1000
+	ClickCenterScreen(1)
+	ClickRightArrow(1)
+	
+	;2nd store
+	ClickCenterScreen(4)
+	StartNewMaterials(1, 3, "Hardware Store")
+	ClickRightArrow(1)
+	
+	;3rd Store
+	ClickCenterScreen(1)
+	ClickRightArrow(1)
+	
+	;4th store if applicable
+	WinGetActiveTitle curWinTitle
+	if(curWinTitle = "Hammertown") {
+		ClickCenterScreen(2)
+		StartNewMaterials(1, 1, "Furniture Store")
+		ClickRightArrow(1)
+	}
+	
+	;Main store
+	ClickCenterScreen(3)
+	Return
+}
+	
+
+;#############################################################
+;###################### FUNCTIONS ############################
+;#############################################################
 
 ClosePeskyAds(numClicks){
+	DebugAppend("Attempting to close annoying ads")
 	Loop, % numClicks
 	{
-		Click, 1335, 271 
-		Sleep % DEFAULT_SLEEP
+		Click, 582, 106
+		Sleep 1000
 	}
-	Sleep % DEFAULT_SLEEP
+	Return
 }
 
 
 ClickCenterScreen(numClicks){
-	Loop, % numClicks
+	Loop, %numClicks%
 	{
-		Click, 927, 538 Left, , Down
-		Sleep, 250
-		Click, 927, 538 Left, , Up
-		Sleep, 1000
+		DebugAppend("Clicking center screen ")
+		Click, 446, 285 Left Down
+		Sleep, 150
+		Click, 446, 285 Left Up
+		Sleep, 750
 	}
-	Sleep % DEFAULT_SLEEP
-}
-
-ClickTradeDepot(){
-
-	Click, 420, 705
-	Sleep, 250
-}
-
-FillSaleCrate(x,y){
-
-	Click, %x%, %y%
-	Sleep % DEFAULT_SLEEP
-	;in case it was recently sold, it needs to be clicked twice
-	Click, %x%, %y%
-	Sleep % DEFAULT_SLEEP
-	;select 2nd row items before materials
-	Click, 350, 608 
-	Sleep % DEFAULT_SLEEP
-	;Increment sale to put max items(5) up for sale
-	Loop, 5 {
-		Click, 1530, 425, Left, , Down
-		Sleep 250
-		Click, 1530, 425, Left, , Up
-		Sleep 250
-	}
-	Sleep % DEFAULT_SLEEP
-	;Click the (-) button and hold to drop price
-	Click, 1218, 588 Left, , Down
-	Sleep, 5000
-	Click, 1218, 588 Left, , Up
-	Sleep, 250
-	;Uncheck advertise box to ensure private sale only
-	Click, 1517, 794 
- 	Sleep % DEFAULT_SLEEP
-	;Put that shit on sale baby
-	Click, 1354, 948 
- 	Sleep % DEFAULT_SLEEP
- 	;Exit in case of unbought crate
- 	Click, 1224, 126 
- 	Sleep % DEFAULT_SLEEP
- 	;Exit Create Sale Window
-	Click, 1643, 134
-	Sleep % DEFAULT_SLEEP
-}
-
-FillSaleCrates(){
-
-    ;Crate coordinates
-	FillSaleCrate(465, 425)
-	FillSaleCrate(735, 425)
-	FillSaleCrate(1000, 425)
-	FillSaleCrate(1280, 425)
-	FillSaleCrate(465, 756)
-	FillSaleCrate(735, 756)
-	FillSaleCrate(1000, 756)
-	FillSaleCrate(1280, 756)
-}
-
-ExitTradeDepot(){
-	Click, 1512, 129
-	Sleep, 250
-}
-
-ClickDummyFactory(){
-	Click, 940, 420 
- 	Sleep % DEFAULT_SLEEP
-}
-
-StartNewMaterials(matPosition, numRefills) {
-	Loop, % numRefills{
-		if (matPosition = 1) {
-			DragMaterialFromPos1()
-
-		} else if (matPosition = 2) {
-			DragMaterialFromPos2()
-
-		} else if (matPosition = 3) {
-			MsgBox, "Set up collecting mats for position 3"
-		} else if (matPosition = 4) {
-			MsgBox, "Set up collecting mats for position 4"
-		} else if (matPosition = 5) {
-			MsgBox, "Set up collecting mats for position 5"
-		}
-		Click, 656, 856 
- 		Sleep 250
-	}
-
-}
-
-DragMaterialFromPos1(){
-	Click, 604, 329 Left, , Down
-	Sleep, 5
-	Click, 607, 330, 0
-	Sleep, 5
-	Click, 609, 331, 0
-	Sleep, 5
-	Click, 612, 332, 0
-	Sleep, 5
-	Click, 615, 333, 0
-	Sleep, 5
-	Click, 616, 334, 0
-	Sleep, 5
-	Click, 617, 335, 0
-	Sleep, 5
-	Click, 619, 336, 0
-	Sleep, 5
-	Click, 633, 341, 0
-	Sleep, 5
-	Click, 655, 355, 0
-	Sleep, 5
-	Click, 688, 369, 0
-	Sleep, 5
-	Click, 702, 375, 0
-	Sleep, 5
-	Click, 711, 378, 0
-	Sleep, 5
-	Click, 726, 385, 0
-	Sleep, 5
-	Click, 729, 386, 0
-	Sleep, 5
-	Click, 737, 392, 0
-	Sleep, 5
-	Click, 748, 398, 0
-	Sleep, 5
-	Click, 774, 412, 0
-	Sleep, 5
-	Click, 778, 414, 0
-	Sleep, 5
-	Click, 790, 421, 0
-	Sleep, 5
-	Click, 797, 424, 0
-	Sleep, 5
-	Click, 800, 426, 0
-	Sleep, 5
-	Click, 803, 430, 0
-	Sleep, 5
-	Click, 816, 436, 0
-	Sleep, 5
-	Click, 843, 452, 0
-	Sleep, 5
-	Click, 859, 460, 0
-	Sleep, 5
-	Click, 864, 465, 0
-	Sleep, 5
-	Click, 864, 466, 0
-	Sleep, 5
-	Click, 865, 467, 0
-	Sleep, 5
-	Click, 868, 470, 0
-	Sleep, 5
-	Click, 878, 477, 0
-	Sleep, 5
-	Click, 887, 485, 0
-	Sleep, 5
-	Click, 889, 486, 0
-	Sleep, 5
-	Click, 893, 490, 0
-	Sleep, 5
-	Click, 898, 494, 0
-	Sleep, 5
-	Click, 899, 495, 0
-	Sleep, 5
-	Click, 899, 496, 0
-	Sleep, 5
-	Click, 899, 497, 0
-	Sleep, 5
-	Click, 900, 497, 0
-	Sleep, 5
-	Click, 900, 498, 0
-	Sleep, 5
-	Click, 900, 499, 0
-	Sleep, 5
-	Click, 900, 500, 0
-	Sleep, 5
-	Click, 901, 500, 0
-	Sleep, 5
-	Click, 901, 502, 0
-	Sleep, 5
-	Click, 902, 502, 0
-	Sleep, 5
-	Click, 902, 503, 0
-	Sleep, 5
-	Click, 902, 505, 0
-	Sleep, 5
-	Click, 903, 505, 0
-	Sleep, 5
-	Click, 905, 505, 0
-	Sleep, 5
-	Click, 906, 505, 0
-	Sleep, 5
-	Click, 907, 505, 0
-	Sleep, 5
-	Click, 910, 506, 0
-	Sleep, 5
-	Click, 910, 507, 0
-	Sleep, 5
-	Click, 911, 507, 0
-	Sleep, 5
-	Click, 911, 508, 0
-	Sleep, 5
-	Click, 911, 509, 0
-	Sleep, 5
-	Click, 915, 512, 0
-	Sleep, 5
-	Click, 917, 513, 0
-	Sleep, 5
-	Click, 917, 513 Left, , Up
-	Sleep, 5
-	Click, 917, 514, 0
-	Sleep, 5
-	Click, 916, 514, 0
 	Return
 }
 
-DragMaterialFromPos2(){
-	Click, 627, 529 Left, , Down
-	Sleep, 735
-	Click, 630, 529, 0
-	Sleep 10
-	Click, 632, 529, 0
-	Sleep 10
-	Click, 633, 529, 0
-	Sleep 10
-	Click, 637, 529, 0
-	Sleep 10
-	Click, 639, 529, 0
-	Sleep 10
-	Click, 642, 529, 0
-	Sleep 10
-	Click, 646, 529, 0
-	Sleep 10
-	Click, 649, 529, 0
-	Sleep 10
-	Click, 651, 529, 0
-	Sleep 10
-	Click, 653, 529, 0
-	Sleep 10
-	Click, 656, 529, 0
-	Sleep 10
-	Click, 661, 529, 0
-	Sleep 10
-	Click, 665, 529, 0
-	Sleep 10
-	Click, 667, 529, 0
-	Sleep 10
-	Click, 673, 529, 0
-	Sleep 10
-	Click, 678, 529, 0
-	Sleep 10
-	Click, 682, 529, 0
-	Sleep 10
-	Click, 685, 529, 0
-	Sleep 10
-	Click, 689, 529, 0
-	Sleep 10
-	Click, 692, 529, 0
-	Sleep 10
-	Click, 699, 529, 0
-	Sleep 10
-	Click, 700, 529, 0
-	Sleep 10
-	Click, 710, 530, 0
-	Sleep 10
-	Click, 715, 530, 0
-	Sleep 10
-	Click, 720, 531, 0
-	Sleep 10
-	Click, 724, 532, 0
-	Sleep 10
-	Click, 730, 532, 0
-	Sleep 10
-	Click, 731, 532, 0
-	Sleep 10
-	Click, 736, 533, 0
-	Sleep 10
-	Click, 741, 533, 0
-	Sleep 10
-	Click, 750, 533, 0
-	Sleep 10
-	Click, 752, 533, 0
-	Sleep 10
-	Click, 761, 533, 0
-	Sleep 10
-	Click, 763, 533, 0
-	Sleep 10
-	Click, 767, 534, 0
-	Sleep 10
-	Click, 770, 535, 0
-	Sleep 10
-	Click, 773, 535, 0
-	Sleep 10
-	Click, 776, 535, 0
-	Sleep 10
-	Click, 796, 540, 0
-	Sleep 10
-	Click, 812, 543, 0
-	Sleep 10
-	Click, 813, 543, 0
-	Sleep 10
-	Click, 818, 544, 0
-	Sleep 10
-	Click, 823, 545, 0
-	Sleep 10
-	Click, 825, 546, 0
-	Sleep 10
-	Click, 830, 548, 0
-	Sleep 10
-	Click, 834, 550, 0
-	Sleep 10
-	Click, 847, 550, 0
-	Sleep 10
-	Click, 855, 548, 0
-	Sleep 10
-	Click, 861, 548, 0
-	Sleep 10
-	Click, 862, 548, 0
-	Sleep 10
-	Click, 867, 548, 0
-	Sleep 10
-	Click, 868, 549, 0
-	Sleep 10
-	Click, 877, 551, 0
-	Sleep 10
-	Click, 887, 551, 0
-	Sleep 10
-	Click, 896, 551, 0
-	Sleep 10
-	Click, 901, 551, 0
-	Sleep 10
-	Click, 906, 551, 0
-	Sleep 10
-	Click, 906, 552, 0
-	Sleep 10
-	Click, 907, 552, 0
-	Sleep 10
-	Click, 909, 552, 0
-	Sleep 10
-	Click, 911, 552, 0
-	Sleep 10
-	Click, 912, 552, 0
-	Sleep 10
-	Click, 914, 551, 0
-	Sleep 10
-	Click, 918, 551, 0
-	Sleep 10
-	Click, 921, 551, 0
-	Sleep, 297
-	Click, 921, 551 Left, , Up
-Return
+ClickTradeDepot(){
+	DebugAppend("Clicking trade depot")
+	Click, 203, 369
+	Sleep 2000
+	Return
 }
 
-ClickFactoryToRight(numClicks){
+ClickCrate(cratePos){
+	DebugAppend("Clicking crate at position " . cratePos)
+	if (cratePos = 1) {
+		Click, Left, 211, 228
+	}
+	else if (cratePos = 2) {
+		Click, Left, 353, 231
+	}
+	else if (cratePos = 3) {
+		Click, Left, 498, 244
+	}
+	else if (cratePos = 4) {
+		Click, Left, 626, 227
+	}
+	else if (cratePos = 5) {
+		Click, Left, 208, 389
+	}
+	else if (cratePos = 6) {
+		Click, Left, 356, 385
+	}
+	else if (cratePos = 7) {
+		Click, Left, 499, 400
+	}
+	else if (cratePos = 8) {
+		Click, Left, 622, 398
+	}
+	Sleep 1000
+	Return
+}
+
+ImageSearchFillSaleCrate(x,y,advertise){
+	DebugAppend("Filling sale crate: " . x . ", " . y)
+	MouseMove, %x%, %y%, 0
+	Sleep 1000
+	Click, %x%, %y%
+	Sleep 1500
+	Click, %x%, %y%
+	Sleep 1500
+	Click, %x%, %y%
+	Sleep 1500
+	DebugAppend("    Select 2nd row to avoid some plain materials if possible")
+	Click, 158, 325 ;select 2nd row items before materials
+	Sleep 1000
+	if (!advertise) {
+		DebugAppend("    Reducing Price...")
+		Click, 593, 328 Left, Down ;Click the (-) button and hold to drop price
+		Sleep, 5000
+		Click, 593, 328 Left, Up
+		Sleep 1000
+	} else {
+		DebugAppend("    Increasing Price...")
+		Click, 750, 333 Left, Down ;Click the (+) button and hold to increase price
+		Sleep, 5000
+		Click, 750, 333 Left, Up
+		Sleep 1000
+	}
+	;Increment sale to put max items(5) up for sale
+	DebugAppend("    Incrementing num of items to max available ")
+	Click, 750, 229, Left, Down
+	Sleep 2500
+	Click, 750, 229, Left, Up
+	Sleep, 1000
+	if (!advertise) {
+		DebugAppend("    Unchecking advertisement box")
+		Click, 729, 418 ;Uncheck advertise box to ensure private sale only
+		Sleep 1000
+	}
+	DebugAppend("    Clicking the sale button")
+	Click, 667, 492 ;Put that shit on sale baby
+ 	Sleep 1000
+	DebugAppend("    Exit in case of non-purchased crate")
+ 	Click, 612, 63 ;Exit in case of unbought crate
+ 	Sleep 1000
+	DebugAppend("    Exiting crate sale window")
+	Click, 821, 67 ;Exit Create Sale Window
+	Sleep 1500
+	Return
+}
+
+ImageSearchFillAllSaleCrates(searches, advertise) {
+	img := A_ScriptDir . "\image_assets\create_new_sale.png"
+	img2 := A_ScriptDir . "\image_assets\sale_crate_bought.png"
+	Loop, %searches% {
+		found := false
+		DebugAppend("Searching for open sale crate")
+		ImageSearch, FoundX, FoundY, 134, 136, 777, 462, *75 %img%
+		if (ErrorLevel = 0) {
+			found = true
+		}
+		else {
+			ImageSearch, FoundX, FoundY, 134, 136, 777, 462, *75 %img2%
+			if (ErrorLevel = 0) {
+				found = true
+			}
+		}
+		if (found) {
+			ImageSearchFillSaleCrate(FoundX, FoundY, advertise)
+		}
+		ErrorLevel = ""
+		FoundX = ""
+		FoundY = ""
+	}
+}
+
+ExitTradeDepot(){
+	Click, 5,46
+	Sleep, 1500
+	Return
+}
+
+ClickDummyFactory(){
+	Click, 450, 221 
+ 	Sleep 1000
+	Return
+}
+
+StartNewMaterials(matPosition, numRefills, bldg) {
+	Loop, %numRefills% {
+		DragMaterialFromPos(matPosition, bldg)
+	}
+	Sleep 1000
+	Return
+}
+
+DragMaterialFromPos(fromPos, bldg){
+	DebugAppend("Starting " . MaterialLookup(fromPos,bldg) . " production at " bldg)
+	if(fromPos = 1 || fromPos = "Metal" || fromPos = "Nails" || fromPos = "Vegetables" || fromPos = "Hammers") {
+		Click, Left, Down, 285, 181
+	}
+	if(fromPos = 2 || fromPos = "Wood") {
+		Click, Left, Down, 229, 267
+	}
+	if(fromPos = 3 || fromPos = "Plastic") {
+		Click, Left, Down, 285, 358
+	}
+	if(fromPos = 4 || fromPos = "Seeds") {
+		Click, Left, Down, 608, 181
+	}
+	if(fromPos = 5) {
+		Click, Left, Down, 665, 271
+	}
+	if(fromPos = 6) {
+		Click, Left, Down, 610, 362
+	}
+	Sleep 1000
+	MouseMove, 446, 285, 99
+	Sleep 500
+	Click, Left, Up, 446, 285 
+	Sleep 2000
+	if(!(inStr(bldg, "Factory"))) {
+		Click, Left, Down, 6, 48
+		Sleep 150
+		Click, Left, Up, 6, 48
+		Sleep 1500
+		ClickCenterScreen(1)
+	}
+	Return
+}
+
+ClickBldgToRight(numClicks){
 	Loop, %numClicks% {
-		Click, 1062, 522 
-	 	Sleep 250	
-	 }
+		Click, 515, 285
+	 	Sleep 2000
+	}
+	Return
 }
 
 
-ClickRightArrow(){
-	Click, 1420, 87 
- 	Sleep 2000
-}
-
-CollectFromFactories(numOfFactories){
-	Loop, %numOfFactories% {
-	ClickRightArrow()
-	Sleep 2000
-	ClickCenterScreen(5)
-	Sleep 2000
-	StartNewMaterials(1,3) ;material position, number of times
-	Sleep 2000
+ClickRightArrow(loops){
+	Loop, %loops% {
+		Click, 694, 68
+		Sleep 2000
+		Return
 	}
 }
 
 ClickDummyStore(){
 	Click, 1082, 524 
  	Sleep 2000
+	Return
 }
 
-^!y:: ;TESTS
-WinActivate,  ahk_class ThumbnailDeviceHelperWnd
-Sleep 2000
-WinActivate, BlueStacks ahk_class HwndWrapper[Bluestacks.exe;;5b32fde4-2355-48c5-be51-8927697e9914]
+MaterialLookup(matPos, bldg) {
+	matName := matPos
+	if (matpos is integer) {
+		if (inStr(bldg, "Factory")) {
+			if (matPos = 1) { 
+				matName := "Metal"
+			}
+			else if (matPos = 2) { 
+				matName := "Wood" 
+			}
+			else if (matPos = 3) { 
+				matName := "Plastic" 
+			}
+			else if (matPos = 4) { 
+				matName := "Seeds" 
+			}
+			else if (matPos = 5) { 
+				matName := "Minerals" 
+			}
+			else { 
+				matName = "**Unavailabe slot**" 
+			}
+		}
+		else if (bldg = "Building Supplies Store") {
+			if (matPos = 1) { 
+				matName := "Nails" 
+			}
+			else if (matPos = 2) { 
+				matName := "Planks" 
+			}
+			else if (matPos = 3) { 
+				matName := "Bricks" 
+			}
+			else { 
+				matName = "**Unavailabe slot**" 
+			}
+		}
+		else if (bldg = "Farmer's Market") {
+			if (matPos = 1) {
+				matName := "Vegetables" 
+			}
+			else if (matPos = 2) { 
+				matName := "Flour Bag" 
+			}
+			else { 
+				matName = "**Unavailabe slot**" 
+			}
+		}
+		else if (bldg = "Hardware Store") {
+		if (matPos = 1) { 
+			matName := "Hammer" 
+			}
+			else if (matPos = 2) { 
+				matName := "Measuring Tape" 
+			}
+			else if (matPos = 3) { 
+				matName := "Shovel" 
+			}
+			else 
+				{ 
+				matName = "**Unavailabe slot**" 
+			}
+		}
+		else {
+			matName := "Mat unknown: Check MaterialLookup() function"
+		}
+		
+	}
+	return matName
+}
 
-ClickCenterScreen(2)
-Sleep 2000
-MsgBox, "Dummy Factory Click", 5000
-ClickDummyFactory()
-Sleep 2000
-MsgBox, "Factory Collection", 5000
-CollectFromFactories(4)
-Sleep 2000
-MsgBox, "Dummy Store Click", 5000
-ClickDummyStore()
-Sleep 2000
-MsgBox, "Navigate with right arrow to main store", 5000
-ClickRightArrow() ;bring back to main store
-Sleep 2000
-MsgBox, "Click center store", 5000
-ClickCenterScreen(5)
-Sleep 2000
-MsgBox, "New Materials", 5000
-StartNewMaterials(1,6)
-Sleep 2000
+SetCoordMode(coordType) { ;*[MarketCrawler]
+    if (coordType = 1) {
+		DebugAppend("Changing CoordMode for all input to pixel/screen")
+        CoordMode, Pixel, Screen
+        CoordMode, ToolTip, Screen
+        CoordMode, Mouse, Screen
+    }
 
-Esc::ExitApp  ; Exit script with Escape key
+    if (coordType = 2) {
+		DebugAppend("Changing CoordMode for all input to relative")
+        CoordMode, Mouse, Relative
+        CoordMode, Pixel, Relative
+        CoordMode, ToolTip, Relative
+    }
+} Return
+
+DebugAppend(Data)
+{
+	GuiControlGet, Debug
+	GuiControl,, Debug, %Data%`r`n %Debug%
+	fileLocation := A_ScriptDir . "\market_crawler_log.txt"
+	FileAppend, %Data% `r`n, %fileLocation% 
+	Return
+}
+
+^!b::
+WinActivate, "BlueStacks"
+ClickTradeDepot()
+ImageSearchFillAllSaleCrates(8, advertise)
+ExitTradeDepot()
+Return
+
+^!h::
+WinActivate, "Hammertown"
+ClickTradeDepot()
+ImageSearchFillAllSaleCrates(8, advertise)
+ExitTradeDepot()
+Return
+
+Esc:: 
+	ExitApp  ; Exit script with Escape key

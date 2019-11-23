@@ -19,12 +19,12 @@ SetBatchLines -1
 ;#################### MAIN PROGRAM ######################
 ;########################################################
 
-^!u::
 ;Main settings
 SLEEP_DEFAULT := 1000
 SLEEP_SHORT := 250
 
 ;Program execution
+WinActivate, "Hammertown"
 ClosePeskyAds(2)
 ClickCenterScreen(7)
 StartNewMaterials(1,7)

@@ -3,6 +3,7 @@
 ;#############################################################
 BlockInput, MouseMove
 fileLocation := A_ScriptDir . "\market_crawler_log.txt"
+fileLocation2 := A_ScriptDir . "\market_crawler_purchase_history.txt"
 FileDelete, %fileLocation%
 global SetWorkingDir %A_ScriptDir%
 SetCoordMode(2)
@@ -32,11 +33,13 @@ For key, val in % WindowList {
 			DebugAppend("Adding to activeWindowList[]")
 			activeWindowList.Push(val)
             WinActivate, %val%
+			WinMove,%val%,,0,0,898,546
 			WinGetActiveStats, %val%, winMaxHeight, winMaxWidth, winX, winY
 			DebugAppend("H: " . winMaxHeight)
 			DebugAppend("W: " . winMaxWidth)
 			DebugAppend("X: " . winX)
 			DebugAppend("Y: " . winY)
+			
     }
 	Else {
 		DebugAppend("Couldn't activate window: " . val)
@@ -58,6 +61,7 @@ while (true) ; Loop until user escapes using ESC key
 	{
 		DebugAppend("Activating window " . winName . " in main loop...")
 		WinActivate, %winName%
+		Sleep 250
 		WinGetActiveStats, %val%, wx1, wy1, wx2, wy2
 		CheckRefresh()
 			Loop, Files, %storageFiles% ; For each image in file
@@ -66,7 +70,7 @@ while (true) ; Loop until user escapes using ESC key
 				path := A_LoopFileFullPath
 				MouseMove, 0, 0, 0
 				DebugAppend("Searching for " . A_LoopFileName)
-				ImageSearch, FoundX, FoundY, 171, 161, 725, 465, *75 %path%
+				ImageSearch, FoundX, FoundY, 171, 161, 725, 465, *100 %path%
 				mainFound := ErrorLevel
 				ErrorLevel := ""
 				If (mainFound = 0) {
@@ -77,7 +81,9 @@ while (true) ; Loop until user escapes using ESC key
 					Sleep 250
 					Click, %FoundX%,%FoundY%
 					Sleep 1000
-					DebugAppend("Found storage item " . path)
+					message := "Found storage item " . path . "`r`n"
+					DebugAppend(message)
+					FileAppend, %message%, %fileLocation2%
 					DebugAppend("Clicking twice at " . FoundX . ", " . FoundY)
 					FoundX := ""
 					FoundY := ""
@@ -93,17 +99,12 @@ while (true) ; Loop until user escapes using ESC key
  
 HomewardBound() {
 	DebugAppend("Homeward bound...")
-    totClicks = 0
-	X1 := 110
-	Y1 := 40
-	X2 := 775
-	Y2 := 125
     Loop {
-		path := A_ScriptDir . "\image_assets\new_homebadge.png"
+		path := A_ScriptDir . "\image_assets\global_trade_id.png"
 		DebugAppend("	Looking for Global Market sign")
 		MouseMove, 0, 0, 0
 		Sleep 100
-		ImageSearch, FoundX, FoundY, %X1% ,%Y1%, %X2%, %Y2%,  *125 %path%
+		ImageSearch, FoundX, FoundY, 95 , 23, 242, 155, *130 %path%
 		found := ErrorLevel
 		ErrorLevel := ""
 		Sleep 1000
@@ -136,9 +137,9 @@ checkRefresh() {
         var += 1
         path := A_ScriptDir . "\image_assets\refresh (" . var . ").jpg"
 		MouseMove, 0, 0, 0
-        ImageSearch, FoundX, FoundY,  0, 0, %A_ScreenWidth%, %A_ScreenHeight%, *75 %path%
+        ImageSearch, FoundX, FoundY,  330, 450, 564, 517, *100 %path%
 		found := ErrorLevel
-		ErrorLevel := ""
+		ErrorLevel := ""S
     }
 
     If (found = 0) {
@@ -160,38 +161,38 @@ checkRefresh() {
 PurchaseFromShop() {
     DebugAppend("Looking in the shop...")
 	storageStoreFiles := A_ScriptDir . "\image_assets\storage\storage_store\*.*"
-	outerLoopVar = 0
-    Loop {
-		outerLoopVar += 1
-		DebugAppend("    Looping over files " . outerLoopVar . " of 2")
-        Loop, Files, %storageStoreFiles%
+	DebugAppend("    Looping over storage store files...")
+	notFounds = 0
+	Loop 
+	{
+		found = false
+		Loop, Files, %storageStoreFiles%
 		{
-            DebugAppend("    Looking for " . A_LoopFileName)
-            path := A_LoopFileFullPath
+			DebugAppend("    Looking for " . A_LoopFileName . "in the shop")
+			path := A_LoopFileFullPath
 			MouseMove, 0,0,0
-            ImageSearch, FoundXX, FoundYY, 175, 170, 735, 465, *75 %path%
-            found := ErrorLevel
-			ErrorLevel = ""
-            If (found = 0) {
-                DebugAppend("Found " . A_LoopFileName)
-                Click, %FoundXX%, %FoundYY%
+			ImageSearch, FoundXX, FoundYY, 175, 170, 735, 465, *125 %path%
+			If (ErrorLevel = 0 )
+			{
+				found = true
+				DebugAppend("    Found " . A_LoopFileName)
+				Click, %FoundXX%, %FoundYY%
+				Sleep 250
+				Click, %FoundXX%, %FoundYY%
 				Sleep 1000
-                WasPurchaseSuccessful(FoundXX, FoundYY)
-                if (wasPurchaseSuccessful = true) {
-					soundPath := A_ScriptDir . "\sound_asseets\chaching.wav"
-					SoundPlay, %soundPath%
-                }
-                Sleep 50
-                Click, %FoundXX%, %FoundYY%
-                FoundX := ""
-                FoundY := ""
-            }
-        }
-    } Until (outerLoopVar = 3)
-	If (found = 0)
-		DebugAppend ("Couldn't find any of the images in the shop")
+				FoundX := ""
+				FoundY := ""
+			}
+			ErrorLevel = ""
+		}
+		If (found != true){
+			notFounds += 1
+			DebugAppend ("    Couldn't find any of the images in the shop")
+		}
+	} until (notFounds >= 2)
+	Return
 }
-Return
+
 
 WaitForLoadingScreen() {
 	found := ""
@@ -203,7 +204,7 @@ WaitForLoadingScreen() {
 		loopVar += 1
         path := A_ScriptDir . "\image_assets\market_logo.png"
 		MouseMove,0,0,0
-        ImageSearch, OutputVarX, OutputVarY, 120, 45, 205, 119, *75 %path%
+        ImageSearch, OutputVarX, OutputVarY, 120, 45, 205, 119, *100 %path%
 		found := ErrorLevel
         If (found = 0) {
 			DebugAppend("    Found market logo, market loaded...")
@@ -225,15 +226,21 @@ WasPurchaseSuccessful(x,y){
 
     Sleep 5000
     path := A_ScriptDir . "\image_assets\greenCheck.jpg"
-    ImageSearch, FoundX, FoundY,  %x1%, %y1%, %x2%, %y2%, *50 %path%
+    ImageSearch, FoundX, FoundY,  %x1%, %y1%, %x2%, %y2%, *100 %path%
 	found := ErrorLevel
     If (found = 0) {
         wasSuccessful := true
 		DebugAppend("Purchase was successful")
+		fileLocation2 := A_ScriptDir . "\market_crawler_purchase_history.txt"
+		message := "    Purchase of " . A_LoopFileName . " successful `r`n"
+		FileAppend, %message%, %fileLocation2% 
     }
     Else {
         wasSuccessful := false
 		DebugAppend("No check mark found to indicate successful purchase.")
+		fileLocation2 := A_ScriptDir . "\market_crawler_purchase_history.txt"
+		message := "    Unable to verify purchase of " . A_LoopFileName . "`r`n"
+		FileAppend, %message%, %fileLocation2% 
 		
     }
     return WasPurchaseSuccessful

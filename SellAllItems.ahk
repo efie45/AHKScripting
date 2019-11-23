@@ -19,8 +19,7 @@ SetBatchLines -1
 DEFAULT_SLEEP := 1000
 
 ;Program execution
-WinActivate,  ahk_class ThumbnailDeviceHelperWnd
-WinActivate, BlueStacks ahk_class HwndWrapper[Bluestacks.exe;;5b32fde4-2355-48c5-be51-8927697e9914]
+WinActivate,  "Hammertown"
 ClosePeskyAds(2)
 ClickCenterScreen(7)
 StartNewMaterials(1,7)
